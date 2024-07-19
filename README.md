@@ -18,7 +18,7 @@ pls dont bully :( ik its bad
 3. Open a command prompt and navigate to the directory containing the source code.
 4. Compile the program using the following command:
 
-   ```g++ -o parser.exe main.cpp dos.cpp nt.cpp fileheader.cpp optional.cpp sections.cpp imports.cpp```
+   ```g++ -o parser.exe main.cpp parser.cpp util.cpp```
 
 ## Usage
 
