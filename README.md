@@ -9,7 +9,7 @@ pls dont bully :( ik its bad
 - **File Header**: Provides information from the IMAGE_FILE_HEADER structure.
 - **Optional Header**: Displays information from the IMAGE_OPTIONAL_HEADER structure.
 - **Section Headers**: Lists the details of each section in the PE file.
-- **Import Addresses**: Shows the import addresses and imported functions.
+- **Import Addresses**: Shows the import addresses and imported functions. (currently kinda doesnt work erm)
 
 ## How to Build
 
